@@ -1,4 +1,4 @@
-# Visual Chirality (CVPR2020 Best Paper Nominee) [[project page](http://bit.ly/visual-chirality)]
+# Visual Chirality (CVPR2020 Best Paper Nominee) [[www](http://bit.ly/visual-chirality)]
 
 ## Introduction
 This repository provides supplemental code of [*Visual Chirality*](http://bit.ly/visual-chirality) paper.
